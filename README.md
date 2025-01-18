@@ -15,7 +15,9 @@ This program requires a C compiler that supports C99 (or later). It uses the sta
 ## Input Format
 The program reads a file containing city names and their pairwise distances. Each line in the file should be formatted as follows:
 
+```sh
 City1-City2: Distance
+```
 
 
 Where:
